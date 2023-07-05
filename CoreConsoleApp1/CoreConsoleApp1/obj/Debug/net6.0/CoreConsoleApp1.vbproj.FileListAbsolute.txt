@@ -1,0 +1,15 @@
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\bin\Debug\net6.0\CoreConsoleApp1.exe
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\bin\Debug\net6.0\CoreConsoleApp1.deps.json
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\bin\Debug\net6.0\CoreConsoleApp1.runtimeconfig.json
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\bin\Debug\net6.0\CoreConsoleApp1.dll
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\bin\Debug\net6.0\CoreConsoleApp1.pdb
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\obj\Debug\net6.0\CoreConsoleApp1.vbproj.AssemblyReference.cache
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\obj\Debug\net6.0\CoreConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\obj\Debug\net6.0\CoreConsoleApp1.AssemblyInfoInputs.cache
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\obj\Debug\net6.0\CoreConsoleApp1.AssemblyInfo.vb
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\obj\Debug\net6.0\CoreConsoleApp1.vbproj.CoreCompileInputs.cache
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\obj\Debug\net6.0\CoreConsoleApp1.dll
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\obj\Debug\net6.0\refint\CoreConsoleApp1.dll
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\obj\Debug\net6.0\CoreConsoleApp1.pdb
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\obj\Debug\net6.0\CoreConsoleApp1.genruntimeconfig.cache
+D:\Julian\Otros\Cursos\Net-Core\CoreConsoleApp1\CoreConsoleApp1\obj\Debug\net6.0\ref\CoreConsoleApp1.dll

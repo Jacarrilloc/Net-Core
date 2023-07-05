@@ -1,0 +1,15 @@
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\bin\Debug\net7.0\coreConsoleProyect.exe
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\bin\Debug\net7.0\coreConsoleProyect.deps.json
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\bin\Debug\net7.0\coreConsoleProyect.runtimeconfig.json
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\bin\Debug\net7.0\coreConsoleProyect.dll
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\bin\Debug\net7.0\coreConsoleProyect.pdb
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\obj\Debug\net7.0\coreConsoleProyect.csproj.AssemblyReference.cache
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\obj\Debug\net7.0\coreConsoleProyect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\obj\Debug\net7.0\coreConsoleProyect.AssemblyInfoInputs.cache
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\obj\Debug\net7.0\coreConsoleProyect.AssemblyInfo.cs
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\obj\Debug\net7.0\coreConsoleProyect.csproj.CoreCompileInputs.cache
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\obj\Debug\net7.0\coreConsoleProyect.dll
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\obj\Debug\net7.0\refint\coreConsoleProyect.dll
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\obj\Debug\net7.0\coreConsoleProyect.pdb
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\obj\Debug\net7.0\coreConsoleProyect.genruntimeconfig.cache
+D:\Julian\Otros\Cursos\Net-Core\coreConsoleProyect\obj\Debug\net7.0\ref\coreConsoleProyect.dll
